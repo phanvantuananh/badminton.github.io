@@ -1,0 +1,17 @@
+.table{
+	border: 1px solid #000!important;
+}
+.form-group select{
+	padding: 5px;
+	border-radius: 4px;
+	cursor: pointer;
+}
+.form a:hover{
+text-decoration: none;
+}
+.form span{
+	color: red;
+}
+.container{
+	position: relative;
+}
